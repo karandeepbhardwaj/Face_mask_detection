@@ -1,6 +1,5 @@
 # Face_mask_detection
-A course project of Applied AI.
-
+A course project for Applied AI.
 
 Data set Links - 
 
@@ -9,7 +8,7 @@ Data set Links -
 
 * https://makeml.app/datasets/mask
 
-License - 
+## License - 
 
-## CC0: Public Domain
+### CC0: Public Domain
 https://creativecommons.org/publicdomain/zero/1.0/
