@@ -1,4 +1,4 @@
-# Face_mask_detection
+# Face Mask Detection
 A course project for Applied AI.
 
 Data set Links - 
