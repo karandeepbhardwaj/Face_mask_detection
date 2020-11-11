@@ -20,3 +20,10 @@ https://creativecommons.org/publicdomain/zero/1.0/
 ##### References -
 
 https://www.analyticsvidhya.com/blog/2019/10/building-image-classification-models-cnn-pytorch/
+
+
+
+References of code:
+
+https://medium.com/jovianml/how-i-created-a-simple-mask-detector-using-gpu-in-pytorch-bd13f3542f46
+https://jovian.ai/aliwaqas333/course-project-mask-detection
